@@ -1,0 +1,15 @@
+{
+  "source": "https://www.threatfabric.com/blogs/hirudo-from-fake-updates-to-patched-banking-apps",
+  "packages": [
+    {"package":"com.agbbh.kjdrttt","sha256":"f796eb9ecf516e4f1fafcf89200d9f7d8ddd234f705e63f1bc8fc3ef583f0248","role":"Shopping lure/dropper"},
+    {"package":"com.onev.vip","sha256":"0097a0406be20544e98e981075427f40789db40fe4a53b1b4523383a945328b7","role":"1v1 vip lure/dropper"},
+    {"package":"com.koishort.app","sha256":"2e45277acfde3fb704179476b08f428f66a03670bbdbf2e8ec79c0b0333c009b","role":"KoiShort lure/dropper"},
+    {"package":"com.zoyatv.app","sha256":"d51f2bd7ffb49c224d8eaec2c8ca1c8ab9fce2fd5fdceea01eb54296c2f47b4d","role":"ZoyaTV lure/dropper"},
+    {"package":"com.zk7qpx.mv9wlt","sha256":"425cd7072b5e9386ac94e97fe272980b6ef36240df6b5d77b371ab7378004c83","role":"Hirudo RAT July build"},
+    {"package":"com.r9nkvx.qw2mpl","sha256":"b2270c29b3d0a49a716730d6ef108cffec0b1a4b159dd02e93333fb85e492b99","role":"Hirudo RAT v7.8.166"}
+  ],
+  "network_iocs": {
+    "domains": ["www.helloharmonyos.com","jiekou.baojingtextile.cn","d3s06yhcwfnwcx.cloudfront.net","d21gcldn8gp80l.cloudfront.net","dydjjnnjg7jeb.cloudfront.net","d3q4tlm7pw29zr.cloudfront.net"],
+    "ips": ["134.122.153.136","43.225.157.157","134.122.153.68","134.122.153.92","18.139.79.161"]
+  }
+}
