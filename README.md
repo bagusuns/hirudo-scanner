@@ -111,3 +111,20 @@ IOC milik masing-masing penerbit sumber; proyek ini independen dan **tidak beraf
 ## Lisensi
 
 MIT License — lihat [LICENSE](LICENSE).
+
+## Disclaimer & Legal Notice
+
+**This tool is provided for educational purposes, cybersecurity research, digital forensics, and authorized security assessments only.**
+
+By using Hirudo Android IOC Scanner, users acknowledge and agree that:
+
+1. **User Responsibility:** Users are solely responsible for how they use this tool and for ensuring compliance with applicable laws and regulations.
+2. **Authorized Use Only:** Users must only scan Android devices they own or have explicit authorization to assess.
+3. **No Warranty:** This tool is provided "AS IS", without warranties of any kind, as described in the MIT License.
+4. **No Guarantee of Detection:** A clean scan result does not guarantee that a device is free from Hirudo or other malware.
+5. **Data Privacy:** Users are responsible for protecting device identifiers, application information, APK files, and generated scan reports.
+6. **Limitation of Liability:** To the extent permitted by applicable law, the developers and contributors shall not be held liable for damages, data loss, misuse, or other consequences arising from the use of this tool.
+
+**Use this tool at your own risk.**
+
+This project is independent and is not affiliated with ThreatFabric, Google, or any financial institution.
